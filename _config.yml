@@ -1,7 +1,9 @@
 title: NICO Spacechip
 description: NICO Spacechip is a neuromorphic chip designed for space applications.
-show_downloads: true
-google_analytics:
+show_downloads: false
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 minima:
   skin: dark
